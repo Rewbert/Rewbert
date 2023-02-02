@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Robert :)
+I'm Robert :)
 
 I am a PhD student at Chalmers University of Technology, in the functional programming unit of the computing science division.
 My supervisor is Koen Claessen, and my co-supervisors are John Hughes and Bo Joel Svensson.
 
-I am interested in compilers, programming languages and testing. I try to orient my research around the Internet of Things and Security, using Haskell as my weapon of choice.
+I am interested in compilers, programming languages and testing. Recently I have slipped into the rabbit-hole of TEE (Trusted Execution Environment(s)), where I might stay a while. I try to orient my research around the Internet of Things and Security, using Haskell as my weapon of choice.
 
 My publications can be found on my google scholar page :)
 
